@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Computer Science, [The University of Texas at Dallas](https://www.utdallas.edu/), 2020 (expected)
+* M.S. in Information Technology & Management, [The University of Texas at Dallas](https://www.utdallas.edu/), 2020 (expected)
 * B.Tech. in Computer Engineering, [Vidyalankar Institute of Technology](https://vidyalankar.com/vidyalankar-institute-of-technology/), 2017
 
 Industrial Experience
@@ -29,18 +29,54 @@ Industrial Experience
 Projects
 ======
 
-* <em>Insincere Question Classiﬁer</em> - Created a classiﬁcation model which tags whether a question is rhetorical, hate speech, hypothetical, sexually explicit, sincere, or other type (FIRE-CIQ 19’ 1st place) - Aug 2019
-* <em>AI for Legal Assistance</em> - Built a rudimentary information retrieval system which ranks statutes and precedents based on relevance, given a case as query using text embeddings (FIRE-AILA 19’ 4th place) - Aug 2019
-* <em>Normalization of Transliterated Words</em> - Developed a Bengali-English transliterated word normalizer using char seq2seq model and Levenshtein distance (paper accepted at W-NUT 2018, EMNLP) - May 2018
-* <em>Complex Word Identiﬁcation</em> - Devised a system which identiﬁes words which might seem complex to nonnative English speakers and hyperlinks them to dictionary meaning - Jan 2018
-* <em>UAV Object Detection</em> - Coded an object detection system using Viola-Jones object detection framework for SRM UAV club. - March 2017
+* Predictive Analytics Using SAP Business Objects, Nov 2019 - Dec 2019
+  * Estimated the future value of liquid assets by performing a time series analysis on the cash flow data
+  * Created interaction variables to reduce forecasting error of the predictive model by 6.8%
+  * Established rules for customer search patterns and constructed a flow graph by conducting association rule mining
+  * Predicted number of customers responding to the promotional offer with 91.97% accuracy by defining a classification model
+
+* Exploratory Data Analysis Using Tableau & Hive, May 2019 – Jun 2019
+  * Imported geolocation and truck information data into Hadoop File System by incorporating external tables using Hive
+  * Eliminated the skewness in the data by identifying and normalizing risk factor associated with truck accidents
+  * Identified cities prone to high number of accidents by integrating Apache Hadoop with Tableau dashboards
+
+* Bitcoin Price Prediction Using ARIMA Forecasting, Mar 2019
+  * Utilized cryptocurrency, crude oil and stock price variables to improve the forecasting accuracy of bitcoin prices by 9%
+  * Visualized periodogram and analyzed results to identify the trends in bitcoin prices based on seasonality 
+  * Optimized ARIMA model to efficiently forecast bitcoin prices and visualized the results using ggplot2
+
+* Google AdWords Campaign, Feb 2019 – Mar 2019
+  * Strategized SEM campaigns for Thea’s Star of Hope to increase brand awareness and donations towards cancer research studies
+  * Optimized bidding strategies by conducting adequate keyword research and improving the quality score of the ads
+  * Improved click-through rate (CTR) of a brand awareness campaign by 5.12%
+  * Designed dynamic ad groups for awareness campaign leading to a click-through rate (CTR) of 45.94%
+
+* Sales Prediction Using Multi-Linear Regression Analysis, Mar 2019
+  * Predicted the price based on customer demographics by extracting and cleaning 2 million records of Black Friday Sales
+  * Improved fitness of multi-linear regression model by 7.5% using advanced techniques like backward elimination
+
+* Accio Viand Food Ordering App, Aug 2018 – Dec 2018
+  * Produced a system analysis report by employing project management tools and techniques.
+  * Identified functional and non-functional requirements and modeled an information system by designing UML diagrams
+
+* Visual Analysis of Natural Disasters at ConocoPhillips Refineries Locations, Oct 2018
+  * Performed an exploratory design analysis on different Conoco Phillips Refineries locations
+  * Designed a narrative visualization of refineries by developing a dashboard of different story points and annotations
+  * Cataloged appropriate rhetoric and established a connected relationship between the story points
+
+* Standards Elimination Parser Using Natural language Processing
+  * Designed a parser for converting the Units/standards to intended standards as required by the user
+  * Engineered logic for a method used for converting words to number like four hundred gets converted to 400
+  * Strategized and implemented logic for conversion of time as per required time zone
 
   
 Skills
 ======
-* Programming Languages - Python, Java, C++, C, R, 
-* Libraries - Tensorﬂow, Keras, PyTorch, Numpy, Scipy, NLTK, Spacy, Pandas 
-* Technologies - MongoDB, MySQL, React, Angular, Django, Node.JS, Firebase, Docker
+* Programming Languages - Python, R, SQL, Java, C, C++ 
+* Libraries - Tensorﬂow, Keras, PyTorch, Numpy, Scipy, NLTK, Spacy, Pandas
+* Databases - MySQL, PostgreSQL, Oracle
+* Big Data - Apache Hadoop, Apache Hive, Apache Spark, Impala, Sqoop, Flume 
+* Analytical Tools - Tableau, Power-BI, MS Excel, QlikView, SAP HANA, SAP Business Objects, SAS
 
 <!---
 Publications
