@@ -14,6 +14,14 @@ Education
 * M.S. in Information Technology & Management, [The University of Texas at Dallas](https://www.utdallas.edu/), 2020 (expected)
 * B.Tech. in Computer Engineering, [Vidyalankar Institute of Technology](https://vidyalankar.com/vidyalankar-institute-of-technology/), 2017
 
+Skills
+======
+* Programming Languages - Python, R, SQL, Java, C, C++ 
+* Libraries - Tensorﬂow, Keras, PyTorch, Numpy, Scipy, NLTK, Spacy, Pandas
+* Databases - MySQL, PostgreSQL, Oracle
+* Big Data - Apache Hadoop, Apache Hive, Apache Spark, Impala, Sqoop, Flume 
+* Analytical Tools - Tableau, Power-BI, MS Excel, QlikView, SAP HANA, SAP Business Objects, SAS
+
 Industrial Experience
 ======
 * Software Engineer, Tata Consultancy Services, Dec 2017 - Jun 2018
@@ -69,15 +77,7 @@ Projects
   * Engineered logic for a method used for converting words to number like four hundred gets converted to 400
   * Strategized and implemented logic for conversion of time as per required time zone
 
-  
-Skills
-======
-* Programming Languages - Python, R, SQL, Java, C, C++ 
-* Libraries - Tensorﬂow, Keras, PyTorch, Numpy, Scipy, NLTK, Spacy, Pandas
-* Databases - MySQL, PostgreSQL, Oracle
-* Big Data - Apache Hadoop, Apache Hive, Apache Spark, Impala, Sqoop, Flume 
-* Analytical Tools - Tableau, Power-BI, MS Excel, QlikView, SAP HANA, SAP Business Objects, SAS
-
+ 
 <!---
 Publications
 ======
