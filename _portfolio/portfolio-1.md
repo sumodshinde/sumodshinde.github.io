@@ -1,3 +1,3 @@
 ---
-<br/><img src='/images/titanic-viz.png' width='600' height='350'>"
+<br/><img src='/images/titanic-viz.PNG' width='600' height='350'>"
 --
