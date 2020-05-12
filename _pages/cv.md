@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Information Technology & Management, [The University of Texas at Dallas](https://www.utdallas.edu/), 2020 (expected)
+* M.S. in Information Technology & Management, [The University of Texas at Dallas](https://www.utdallas.edu/), 2020 
 * B.Tech. in Computer Engineering, [Vidyalankar Institute of Technology](https://vidyalankar.com/vidyalankar-institute-of-technology/), 2017
 
 Skills
