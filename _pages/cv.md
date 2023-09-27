@@ -26,14 +26,14 @@ Skills
 Industrial Experience
 ======
 * Data Management Analyst, Avant, Apr 2022 - Jun 2023
-  •	Designed the new customer explore in LookML for business users, enabling them to generate daily/weekly dashboards
-  •	Migrated data automated jobs to configure a new approach to push data into the Segment tool for 4 marketing campaigns
-  •	Created and managed customer-related datasets documentation in Alation to provide more information to business users
-  •	Performed validations on 6 automated data jobs to ensure data consistency and accuracy for new approaches toward existing marketing campaigns
-  •	Implemented 30 + data validations in test, UAT, and PROD environments for the current customer data pipeline changes
-  •	Drafted and executed 10 + ad hoc data requests SQL scripts to provide required data to various business users
-  •	Performed data audit on customer data fields for customer dataset to ensure consistent data migration to a new platform
-  •	Executed an investigative analysis to understand the patterns in missing data from the deliverables to the customer pipeline
+  * Designed the new customer explore in LookML for business users, enabling them to generate daily/weekly dashboards
+  *	Migrated data automated jobs to configure a new approach to push data into the Segment tool for 4 marketing campaigns
+  *	Created and managed customer-related datasets documentation in Alation to provide more information to business users
+  *	Performed validations on 6 automated data jobs to ensure data consistency and accuracy for new approaches toward existing marketing campaigns
+  *	Implemented 30 + data validations in test, UAT, and PROD environments for the current customer data pipeline changes
+  *	Drafted and executed 10 + ad hoc data requests SQL scripts to provide required data to various business users
+  *	Performed data audit on customer data fields for customer dataset to ensure consistent data migration to a new platform
+  *	Executed an investigative analysis to understand the patterns in missing data from the deliverables to the customer pipeline
   
 * Data Analyst, The University of Texas at Austin - Office of Strategy & Policy, Jan 2021 - Mar 2022
   •	Executed data extraction pipeline on Microsoft Azure to perform weekly refresh of data for maintaining data integrity
