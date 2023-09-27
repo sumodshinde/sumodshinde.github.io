@@ -16,24 +16,44 @@ Education
 
 Skills
 ======
-* Analytical Tools: Tableau, Excel (Pivot tables), QlikView, SAP HANA, SAS, Power BI, Business Objects, VBA, d3 
-* Databases: MySQL, PostgreSQL, Oracle, Access 
-* Programming: Python (numpy, pandas), R, SQL, PL/SQL, Java, C, C++, CSS, HTML, JavaScript 
-* Machine Learning: Regression, Time Series, Classification, Clustering, PCA, ARIMA, ANN, LSTM, GRU, Neural Networks 
-* Big Data: Apache Hadoop (Storage), Hive SQL, Impala, Sqoop, Flume, Spark 
-* Certifications: Tableau for Data Science, Machine Learning A-Z, Master SQL for Data Science, Google Ad Grants, Google Ads Fundamentals, Google Ads Search, Google Ads Display,   Google Analytics IQ
+* Analytical Tools: Tableau, Excel (LOOKUP, Pivot Table, Charts, INDEX MATCH), QlikView, SAS, Power BI, SSMS, SSRS, Looker 
+* Databases: MySQL, PostgreSQL, Oracle, MS SQL, Dremio SQL 
+* Programming: Python (Pandas, Matplotlib, NumPy), R, SQL, PL/SQL, Java, HTML, Bootstrap, LookML, Airflow, Segment 
+* Machine Learning: Regression, Time Series, Classification, Clustering, ARIMA, KNN, ANOVA 
+* Project Management: JIRA, Alation, Lucid, Confluence, Notion 
+* Certifications: Tableau for Data Science, Machine Learning A-Z, Master SQL for Data Science, Google Ad Grants
 
 Industrial Experience
 ======
-* IT Analyst, Tata Consultancy Services, Dec 2017 - Jun 2018
-  * Analyzed and reported number of weekly hours saved in Sanity and Load Testing triage by generating weekly reports
-  * Enhanced product quality in concurrent sprints by developing dashboards on Excel and identifying analytic insights
-  * Performed scaled automation using python test framework resulting in 10% increase in defect identification across SKU’s
-  * Developed automated python script for Sanity and Load Testing failure triage process reducing manual efforts by 18%
-  * Devised an end-to-end testing on storage systems project by designing several automation test scripts using selenium
-  * Designed various test cases in accordance with the given business requirements by improvising on previous test cases
-  * Reviewed new areas of opportunity in daily agile standup meetings with team leads, product owner and stakeholders 
+* Data Management Analyst, Avant, Apr 2022 - Jun 2023
+  •	Designed the new customer explore in LookML for business users, enabling them to generate daily/weekly dashboards
+  •	Migrated data automated jobs to configure a new approach to push data into the Segment tool for 4 marketing campaigns
+  •	Created and managed customer-related datasets documentation in Alation to provide more information to business users
+  •	Performed validations on 6 automated data jobs to ensure data consistency and accuracy for new approaches toward existing marketing campaigns
+  •	Implemented 30 + data validations in test, UAT, and PROD environments for the current customer data pipeline changes
+  •	Drafted and executed 10 + ad hoc data requests SQL scripts to provide required data to various business users
+  •	Performed data audit on customer data fields for customer dataset to ensure consistent data migration to a new platform
+  •	Executed an investigative analysis to understand the patterns in missing data from the deliverables to the customer pipeline
+  
+* Data Analyst, The University of Texas at Austin - Office of Strategy & Policy, Jan 2021 - Mar 2022
+  •	Executed data extraction pipeline on Microsoft Azure to perform weekly refresh of data for maintaining data integrity
+  •	Designed College Career Knowledge Assessment reports of 20 districts for the academic year 2021 using SSMS & SSRS
+  •	Modeled and visualized 4 PLI reports for the Quality Control Process by mapping 200 stored procedures in SSMS & SSRS
+  •	Drafted and executed 30 + ad hoc data requests SQL scripts to provide required data to various stakeholders
+  •	Designed End of Year reports for 197 districts by constructing charts and developing stored procedures in SSRS & SSMS
+  •	Extracted around 1 million course data by devising a web scrapping script in Python using the Selenium automation package
+  •	Constructed College Career Knowledge Assessment reports for 52 districts by implementing stored procedures in SSRS
+  •	Modeled database schema diagram to reflect new changes in internal database structure for the MapMyPath project
+  •	Performed Quality Control Process for around 30 Middle of Year reports and assisted in End of Course Assessment testing
 
+* Assistant System Engineer, Tata Consultancy Services, Dec 2017 - Jun 2018
+  •	Analyzed and reported number of weekly hours saved in Sanity and Load Testing triage by generating ad-hoc reports
+  •	Enhanced product quality in concurrent sprints by fetching data via SQL and developing dashboards on MS Excel
+  •	Performed scaled automation using python test framework resulting in 10% increase in defect identification across SKU’s
+  •	Developed automated python script for Sanity and Load Testing failure triage process reducing manual efforts by 18%
+  •	Devised an end-to-end testing on storage systems project by designing several automation test scripts using selenium 
+  •	Reviewed new areas of opportunity in daily agile standup meetings with team leads, product owner and stakeholders
+ 
 Projects
 ======
 * Frito-Lay Data Analysis Using Microsoft Excel & SAS, Mar 2020 - May 2020
