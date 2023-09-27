@@ -36,23 +36,23 @@ Industrial Experience
   *	Executed an investigative analysis to understand the patterns in missing data from the deliverables to the customer pipeline
   
 * Data Analyst, The University of Texas at Austin - Office of Strategy & Policy, Jan 2021 - Mar 2022
-  •	Executed data extraction pipeline on Microsoft Azure to perform weekly refresh of data for maintaining data integrity
-  •	Designed College Career Knowledge Assessment reports of 20 districts for the academic year 2021 using SSMS & SSRS
-  •	Modeled and visualized 4 PLI reports for the Quality Control Process by mapping 200 stored procedures in SSMS & SSRS
-  •	Drafted and executed 30 + ad hoc data requests SQL scripts to provide required data to various stakeholders
-  •	Designed End of Year reports for 197 districts by constructing charts and developing stored procedures in SSRS & SSMS
-  •	Extracted around 1 million course data by devising a web scrapping script in Python using the Selenium automation package
-  •	Constructed College Career Knowledge Assessment reports for 52 districts by implementing stored procedures in SSRS
-  •	Modeled database schema diagram to reflect new changes in internal database structure for the MapMyPath project
-  •	Performed Quality Control Process for around 30 Middle of Year reports and assisted in End of Course Assessment testing
+  *	Executed data extraction pipeline on Microsoft Azure to perform weekly refresh of data for maintaining data integrity
+  *	Designed College Career Knowledge Assessment reports of 20 districts for the academic year 2021 using SSMS & SSRS
+  *	Modeled and visualized 4 PLI reports for the Quality Control Process by mapping 200 stored procedures in SSMS & SSRS
+  *	Drafted and executed 30 + ad hoc data requests SQL scripts to provide required data to various stakeholders
+  *	Designed End of Year reports for 197 districts by constructing charts and developing stored procedures in SSRS & SSMS
+  *	Extracted around 1 million course data by devising a web scrapping script in Python using the Selenium automation package
+  *	Constructed College Career Knowledge Assessment reports for 52 districts by implementing stored procedures in SSRS
+  *	Modeled database schema diagram to reflect new changes in internal database structure for the MapMyPath project
+  *	Performed Quality Control Process for around 30 Middle of Year reports and assisted in End of Course Assessment testing
 
 * Assistant System Engineer, Tata Consultancy Services, Dec 2017 - Jun 2018
-  •	Analyzed and reported number of weekly hours saved in Sanity and Load Testing triage by generating ad-hoc reports
-  •	Enhanced product quality in concurrent sprints by fetching data via SQL and developing dashboards on MS Excel
-  •	Performed scaled automation using python test framework resulting in 10% increase in defect identification across SKU’s
-  •	Developed automated python script for Sanity and Load Testing failure triage process reducing manual efforts by 18%
-  •	Devised an end-to-end testing on storage systems project by designing several automation test scripts using selenium 
-  •	Reviewed new areas of opportunity in daily agile standup meetings with team leads, product owner and stakeholders
+  *	Analyzed and reported number of weekly hours saved in Sanity and Load Testing triage by generating ad-hoc reports
+  *	Enhanced product quality in concurrent sprints by fetching data via SQL and developing dashboards on MS Excel
+  *	Performed scaled automation using python test framework resulting in 10% increase in defect identification across SKU’s
+  *	Developed automated python script for Sanity and Load Testing failure triage process reducing manual efforts by 18%
+  *	Devised an end-to-end testing on storage systems project by designing several automation test scripts using selenium 
+  *	Reviewed new areas of opportunity in daily agile standup meetings with team leads, product owner and stakeholders
  
 Projects
 ======
