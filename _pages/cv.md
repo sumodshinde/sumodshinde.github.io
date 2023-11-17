@@ -26,33 +26,41 @@ Skills
 Industrial Experience
 ======
 * Data Management Analyst, Avant, Apr 2022 - Jun 2023
-  * Designed the new customer explore in Looker using LookML for business users to generate daily and weekly dashboards
-  *	Migrated data automated jobs to push data into Segment (CDP) for 4 marketing campaigns using Python and SQL
-  *	Curated data catalog documentation for customer datasets in Alation to provide more information to business users
-  *	Performed validations on 6 automated data jobs to ensure data consistency and accuracy for existing marketing campaigns using SQL
-  *	Implemented 30 + data validations in test, UAT, and PROD environments for customer data pipeline changes using SQL
-  *	Designed and assisted the business with SQL scripts for advanced, ad hoc analytical use cases to facilitate required data 
-  *	Performed data audit on data fields for customer datasets to ensure consistent data migration via Python and SQL
-  *	Executed an investigative analysis to understand the patterns in missing data from the deliverables for the customer pipeline
+  * Redesigned 4 card collections campaigns by pushing data to Segment (Customer Data Portal) and Braze (Marketing tool), thus improving the customer reach to 
+    reduce default rates and increase overall cash flow
+  *	Audited various customer data attributes during data migration from Presto to Dremio via Python Jupyter notebooks and designed customer financial reporting 
+    data view in Looker to ensure financial reporting has a higher level of accuracy in the new environment
+  *	Implemented data integrity checks on up-versioned customer account data via SQL validation scripts and designed a Looker data view to assist the business 
+    users with updated data for accurate financial reporting
+  *	Reengineered automated financial dispute resolution data pipeline by validating changes in the pipeline, thus reducing manual efforts by ~ 75% and enabling 
+    faster resolution times for identified disputes
+  *	Refactored SQL queries and migrated various Looker views to the Dremio platform to ensure accurate data values are reflected as key performance indicators in 
+    financial dashboards
+  *	Modified SQL query for a financial reporting business use case to reduce the data computation time by 44% and improved performance 
+  *	Engineered data validation scripts in SQL for changes in customer data pipelines by reviewing Pyspark code to increase the robustness of the data pipelines
+  *	Executed an investigative analysis to understand the patterns in missing data deliverables for the customer account pipeline to enhance data completeness to 
+    ~ 98%
   
 * Data Analyst, The University of Texas at Austin - Office of Strategy & Policy, Jan 2021 - Mar 2022
-  *	Executed data extraction pipeline on Microsoft Azure to perform weekly refresh of data for maintaining data integrity
-  *	Designed College Career Knowledge Assessment reports of 20 districts for the academic year 2021 using SSMS & SSRS
-  *	Modeled and visualized 4 PLI reports for the Quality Control Process by mapping 200 stored procedures in SSMS & SSRS
-  *	Drafted and executed 30 + ad hoc data requests SQL scripts to provide required data to various stakeholders
-  *	Designed End of Year reports for 197 districts by constructing charts and developing stored procedures in SSRS & SSMS
-  *	Extracted around 1 million course data by devising a web scrapping script in Python using the Selenium automation package
-  *	Constructed College Career Knowledge Assessment reports for 52 districts by implementing stored procedures in SSRS
-  *	Modeled database schema diagram to reflect new changes in internal database structure for the MapMyPath project
-  *	Performed Quality Control Process for around 30 Middle of Year reports and assisted in End of Course Assessment testing
+  *	Designed College Career Knowledge Assessment reports in SQL & SSRS for 52 districts that track key performance indicators (KPIs) and provide insights on 
+    student’s as well as professor’s performance on various academic programs supported by Texas public district schools.
+  *	Developed automated data integrity checks for 4 Post Learning Initiative reports to reduce data errors by ~15%
+  *	Constructed End of Year reports for 197 Texas public district schools to monitor the overall program’s growth over the past years by providing interactive 
+    visualizations in SQL & SSRS
+  *	Debugged and re-engineered a Python web scrapping script to extract around 1 million records of course data by implementing the Selenium automation package, 
+    thus reducing manual efforts by 88%
+  *	Conceptualized and modeled database schema diagram to revamp the internal database structure for the MapMyPath project supported by Texas Higher Education 
+    Coordinating Board
+  *	Facilitated and modified the SQL scripts to reduce the data loading time by ~15% for various Tableau visualizations for the Texas Higher Education 
+    Coordinating Board dashboard
+  *	Acted as the department’s key resource for formulating business requirements from UT Austin’s internal and external stakeholders into technical business 
+    queries and furnish accurate data for higher management reporting
 
 * Assistant System Engineer, Tata Consultancy Services, Dec 2017 - Jun 2018
-  *	Analyzed and reported the number of weekly hours saved in Sanity and Load Testing triage by generating ad-hoc reports
-  *	Enhanced product quality in concurrent sprints by fetching data via SQL and developing dashboards on MS Excel
-  *	Performed scaled automation using Python test framework, resulting in a 10% increase in defect identification across SKUs
+  *	Designed a report to demonstrate a number of defects identified and solved in concurrent sprints using SQL and Excel to showcase the team’s performance over 
+    the sprints
   *	Developed automated Python script for Sanity and Load Testing failure triage process, reducing manual efforts by 18%
-  *	Devised end-to-end testing on storage systems project by designing several automation test scripts using selenium 
-  *	Reviewed new areas of opportunity in daily agile standup meetings with team leads, product owners, and stakeholders
+  *	Devised end-to-end testing on storage systems project by designing several automation test scripts using selenium
  
 Projects
 ======
